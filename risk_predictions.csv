@@ -1,0 +1,801 @@
+student_id,risk_label,risk_score,top_factors,recommendation
+STD_0,on_track,27,Low recent activity,Student is performing well. Continue current training plan.
+STD_1,needs_attention,46,Low recent activity,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_2,on_track,33,Low recent activity,Student is performing well. Continue current training plan.
+STD_3,on_track,34,Low quiz performance,Student is performing well. Continue current training plan.
+STD_4,needs_attention,65,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_5,on_track,21,,Student is performing well. Continue current training plan.
+STD_6,on_track,29,Low recent activity,Student is performing well. Continue current training plan.
+STD_7,needs_attention,58,"Low quiz performance, Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_8,needs_attention,41,"Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_9,on_track,38,Low recent activity,Student is performing well. Continue current training plan.
+STD_10,on_track,37,Low recent activity,Student is performing well. Continue current training plan.
+STD_11,on_track,24,,Student is performing well. Continue current training plan.
+STD_12,on_track,37,"Low quiz performance, Low technical skills",Student is performing well. Continue current training plan.
+STD_13,needs_attention,63,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_14,on_track,12,,Student is performing well. Continue current training plan.
+STD_15,on_track,39,Low technical skills,Student is performing well. Continue current training plan.
+STD_16,on_track,16,,Student is performing well. Continue current training plan.
+STD_17,on_track,21,,Student is performing well. Continue current training plan.
+STD_18,needs_attention,65,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_19,on_track,34,Low technical skills,Student is performing well. Continue current training plan.
+STD_20,on_track,18,,Student is performing well. Continue current training plan.
+STD_21,on_track,28,,Student is performing well. Continue current training plan.
+STD_22,on_track,29,,Student is performing well. Continue current training plan.
+STD_23,on_track,29,Low recent activity,Student is performing well. Continue current training plan.
+STD_24,needs_attention,40,"Low attendance, Low quiz performance",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_25,on_track,17,,Student is performing well. Continue current training plan.
+STD_26,needs_attention,43,Low recent activity,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_27,on_track,37,,Student is performing well. Continue current training plan.
+STD_28,on_track,32,Low recent activity,Student is performing well. Continue current training plan.
+STD_29,needs_attention,62,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_30,on_track,3,,Student is performing well. Continue current training plan.
+STD_31,needs_attention,55,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_32,on_track,30,,Student is performing well. Continue current training plan.
+STD_33,needs_attention,61,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_34,on_track,34,Low recent activity,Student is performing well. Continue current training plan.
+STD_35,on_track,20,,Student is performing well. Continue current training plan.
+STD_36,needs_attention,41,"Low attendance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_37,on_track,39,Low attendance,Student is performing well. Continue current training plan.
+STD_38,needs_attention,46,"Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_39,on_track,14,Low technical skills,Student is performing well. Continue current training plan.
+STD_40,critical,83,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_41,needs_attention,65,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_42,on_track,26,Low attendance,Student is performing well. Continue current training plan.
+STD_43,needs_attention,46,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_44,critical,74,"Low attendance, Low quiz performance, Low recent activity",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_45,critical,87,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_46,on_track,29,Low recent activity,Student is performing well. Continue current training plan.
+STD_47,on_track,22,,Student is performing well. Continue current training plan.
+STD_48,needs_attention,66,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_49,on_track,25,Low technical skills,Student is performing well. Continue current training plan.
+STD_50,on_track,8,,Student is performing well. Continue current training plan.
+STD_51,needs_attention,43,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_52,on_track,26,Low recent activity,Student is performing well. Continue current training plan.
+STD_53,needs_attention,56,"Low attendance, Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_54,on_track,31,Low recent activity,Student is performing well. Continue current training plan.
+STD_55,on_track,35,Low attendance,Student is performing well. Continue current training plan.
+STD_56,on_track,11,,Student is performing well. Continue current training plan.
+STD_57,needs_attention,44,"Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_58,needs_attention,45,Low recent activity,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_59,needs_attention,53,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_60,on_track,24,Low recent activity,Student is performing well. Continue current training plan.
+STD_61,on_track,31,Low recent activity,Student is performing well. Continue current training plan.
+STD_62,on_track,10,,Student is performing well. Continue current training plan.
+STD_63,on_track,15,,Student is performing well. Continue current training plan.
+STD_64,needs_attention,49,"Low attendance, High missed sessions, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_65,on_track,11,,Student is performing well. Continue current training plan.
+STD_66,on_track,34,,Student is performing well. Continue current training plan.
+STD_67,on_track,16,,Student is performing well. Continue current training plan.
+STD_68,on_track,37,Low recent activity,Student is performing well. Continue current training plan.
+STD_69,needs_attention,54,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_70,on_track,24,Low technical skills,Student is performing well. Continue current training plan.
+STD_71,on_track,15,,Student is performing well. Continue current training plan.
+STD_72,critical,96,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_73,on_track,19,,Student is performing well. Continue current training plan.
+STD_74,on_track,39,Low attendance,Student is performing well. Continue current training plan.
+STD_75,needs_attention,44,"Low attendance, Low quiz performance",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_76,needs_attention,42,"Low attendance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_77,on_track,23,,Student is performing well. Continue current training plan.
+STD_78,on_track,18,,Student is performing well. Continue current training plan.
+STD_79,critical,72,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_80,on_track,33,,Student is performing well. Continue current training plan.
+STD_81,on_track,25,,Student is performing well. Continue current training plan.
+STD_82,on_track,3,,Student is performing well. Continue current training plan.
+STD_83,critical,71,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_84,needs_attention,68,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_85,on_track,34,,Student is performing well. Continue current training plan.
+STD_86,on_track,20,,Student is performing well. Continue current training plan.
+STD_87,needs_attention,49,Low technical skills,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_88,on_track,7,,Student is performing well. Continue current training plan.
+STD_89,critical,70,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_90,needs_attention,68,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_91,on_track,13,,Student is performing well. Continue current training plan.
+STD_92,needs_attention,65,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_93,needs_attention,65,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_94,needs_attention,47,"Low attendance, High missed sessions, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_95,on_track,26,,Student is performing well. Continue current training plan.
+STD_96,critical,87,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_97,needs_attention,43,Low technical skills,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_98,needs_attention,42,"Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_99,needs_attention,43,Low recent activity,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_100,needs_attention,49,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_101,on_track,26,Low quiz performance,Student is performing well. Continue current training plan.
+STD_102,on_track,37,"Low quiz performance, Low recent activity",Student is performing well. Continue current training plan.
+STD_103,on_track,8,,Student is performing well. Continue current training plan.
+STD_104,needs_attention,67,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_105,needs_attention,43,Low recent activity,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_106,on_track,38,Low technical skills,Student is performing well. Continue current training plan.
+STD_107,needs_attention,41,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_108,critical,73,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_109,critical,72,"Low quiz performance, Low recent activity, Low technical skills",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_110,on_track,15,,Student is performing well. Continue current training plan.
+STD_111,on_track,17,,Student is performing well. Continue current training plan.
+STD_112,on_track,13,,Student is performing well. Continue current training plan.
+STD_113,needs_attention,51,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_114,on_track,28,,Student is performing well. Continue current training plan.
+STD_115,needs_attention,63,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_116,on_track,30,Low recent activity,Student is performing well. Continue current training plan.
+STD_117,needs_attention,46,Low technical skills,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_118,needs_attention,41,"Low attendance, Low quiz performance",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_119,needs_attention,65,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_120,on_track,18,Low quiz performance,Student is performing well. Continue current training plan.
+STD_121,needs_attention,46,Low recent activity,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_122,needs_attention,56,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_123,needs_attention,63,"Low attendance, Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_124,needs_attention,47,"Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_125,on_track,27,Low recent activity,Student is performing well. Continue current training plan.
+STD_126,needs_attention,41,"Low attendance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_127,on_track,26,,Student is performing well. Continue current training plan.
+STD_128,needs_attention,42,"Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_129,needs_attention,68,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_130,critical,71,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_131,needs_attention,56,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_132,needs_attention,41,"Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_133,on_track,20,,Student is performing well. Continue current training plan.
+STD_134,on_track,21,,Student is performing well. Continue current training plan.
+STD_135,on_track,17,,Student is performing well. Continue current training plan.
+STD_136,on_track,24,,Student is performing well. Continue current training plan.
+STD_137,needs_attention,50,"Low attendance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_138,on_track,33,Low recent activity,Student is performing well. Continue current training plan.
+STD_139,needs_attention,50,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_140,needs_attention,69,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_141,on_track,11,,Student is performing well. Continue current training plan.
+STD_142,critical,70,"Low attendance, Low quiz performance, Low recent activity",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_143,on_track,21,Low recent activity,Student is performing well. Continue current training plan.
+STD_144,needs_attention,41,"Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_145,on_track,30,Low quiz performance,Student is performing well. Continue current training plan.
+STD_146,needs_attention,55,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_147,needs_attention,40,Low quiz performance,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_148,needs_attention,56,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_149,needs_attention,48,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_150,on_track,26,,Student is performing well. Continue current training plan.
+STD_151,on_track,30,Low attendance,Student is performing well. Continue current training plan.
+STD_152,on_track,16,,Student is performing well. Continue current training plan.
+STD_153,on_track,1,,Student is performing well. Continue current training plan.
+STD_154,on_track,25,Low quiz performance,Student is performing well. Continue current training plan.
+STD_155,needs_attention,55,"Low quiz performance, Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_156,on_track,22,,Student is performing well. Continue current training plan.
+STD_157,on_track,8,,Student is performing well. Continue current training plan.
+STD_158,needs_attention,40,Low recent activity,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_159,needs_attention,57,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_160,critical,77,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_161,needs_attention,45,Low recent activity,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_162,needs_attention,58,"Low attendance, High missed sessions, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_163,on_track,10,,Student is performing well. Continue current training plan.
+STD_164,on_track,3,,Student is performing well. Continue current training plan.
+STD_165,needs_attention,49,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_166,needs_attention,40,Low attendance,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_167,on_track,27,,Student is performing well. Continue current training plan.
+STD_168,on_track,11,,Student is performing well. Continue current training plan.
+STD_169,needs_attention,46,Low recent activity,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_170,needs_attention,52,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_171,needs_attention,51,"Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_172,needs_attention,55,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_173,on_track,23,,Student is performing well. Continue current training plan.
+STD_174,needs_attention,60,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_175,needs_attention,49,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_176,on_track,6,,Student is performing well. Continue current training plan.
+STD_177,needs_attention,54,"Low attendance, High missed sessions, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_178,needs_attention,60,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_179,needs_attention,43,"Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_180,on_track,36,"Low attendance, Low technical skills",Student is performing well. Continue current training plan.
+STD_181,on_track,23,,Student is performing well. Continue current training plan.
+STD_182,on_track,36,Low recent activity,Student is performing well. Continue current training plan.
+STD_183,on_track,31,,Student is performing well. Continue current training plan.
+STD_184,on_track,33,,Student is performing well. Continue current training plan.
+STD_185,needs_attention,62,"Low attendance, High missed sessions, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_186,on_track,29,,Student is performing well. Continue current training plan.
+STD_187,on_track,27,,Student is performing well. Continue current training plan.
+STD_188,needs_attention,57,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_189,needs_attention,45,"Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_190,on_track,9,,Student is performing well. Continue current training plan.
+STD_191,on_track,31,,Student is performing well. Continue current training plan.
+STD_192,on_track,20,,Student is performing well. Continue current training plan.
+STD_193,needs_attention,52,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_194,needs_attention,59,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_195,on_track,39,Low quiz performance,Student is performing well. Continue current training plan.
+STD_196,on_track,20,,Student is performing well. Continue current training plan.
+STD_197,on_track,3,,Student is performing well. Continue current training plan.
+STD_198,on_track,22,,Student is performing well. Continue current training plan.
+STD_199,on_track,38,Low recent activity,Student is performing well. Continue current training plan.
+STD_200,on_track,26,,Student is performing well. Continue current training plan.
+STD_201,needs_attention,54,"Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_202,critical,79,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_203,needs_attention,41,Low technical skills,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_204,on_track,25,,Student is performing well. Continue current training plan.
+STD_205,needs_attention,46,Low recent activity,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_206,on_track,21,,Student is performing well. Continue current training plan.
+STD_207,needs_attention,51,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_208,on_track,23,Low quiz performance,Student is performing well. Continue current training plan.
+STD_209,on_track,23,,Student is performing well. Continue current training plan.
+STD_210,needs_attention,56,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_211,needs_attention,67,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_212,on_track,37,"Low quiz performance, Low technical skills",Student is performing well. Continue current training plan.
+STD_213,on_track,27,Low technical skills,Student is performing well. Continue current training plan.
+STD_214,on_track,34,"Low quiz performance, Low technical skills",Student is performing well. Continue current training plan.
+STD_215,needs_attention,51,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_216,needs_attention,50,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_217,on_track,31,Low recent activity,Student is performing well. Continue current training plan.
+STD_218,on_track,33,Low quiz performance,Student is performing well. Continue current training plan.
+STD_219,on_track,39,Low recent activity,Student is performing well. Continue current training plan.
+STD_220,on_track,16,,Student is performing well. Continue current training plan.
+STD_221,needs_attention,50,"Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_222,on_track,30,,Student is performing well. Continue current training plan.
+STD_223,on_track,37,Low technical skills,Student is performing well. Continue current training plan.
+STD_224,on_track,11,,Student is performing well. Continue current training plan.
+STD_225,on_track,12,,Student is performing well. Continue current training plan.
+STD_226,needs_attention,56,"Low attendance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_227,needs_attention,53,"Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_228,needs_attention,41,Low technical skills,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_229,on_track,38,,Student is performing well. Continue current training plan.
+STD_230,on_track,25,Low recent activity,Student is performing well. Continue current training plan.
+STD_231,needs_attention,51,"Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_232,needs_attention,49,"Low attendance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_233,on_track,20,,Student is performing well. Continue current training plan.
+STD_234,needs_attention,45,"Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_235,on_track,36,"Low quiz performance, Low technical skills",Student is performing well. Continue current training plan.
+STD_236,on_track,2,,Student is performing well. Continue current training plan.
+STD_237,needs_attention,44,Low technical skills,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_238,needs_attention,40,Low technical skills,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_239,critical,94,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_240,needs_attention,50,Low recent activity,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_241,on_track,20,,Student is performing well. Continue current training plan.
+STD_242,needs_attention,43,Low quiz performance,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_243,critical,97,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_244,needs_attention,48,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_245,on_track,24,Low recent activity,Student is performing well. Continue current training plan.
+STD_246,on_track,21,,Student is performing well. Continue current training plan.
+STD_247,needs_attention,62,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_248,critical,70,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_249,needs_attention,47,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_250,needs_attention,59,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_251,needs_attention,67,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_252,on_track,14,,Student is performing well. Continue current training plan.
+STD_253,on_track,19,,Student is performing well. Continue current training plan.
+STD_254,needs_attention,65,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_255,on_track,15,,Student is performing well. Continue current training plan.
+STD_256,needs_attention,52,"Low quiz performance, Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_257,on_track,18,,Student is performing well. Continue current training plan.
+STD_258,needs_attention,46,Low technical skills,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_259,on_track,29,,Student is performing well. Continue current training plan.
+STD_260,on_track,30,Low recent activity,Student is performing well. Continue current training plan.
+STD_261,needs_attention,54,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_262,on_track,20,Low recent activity,Student is performing well. Continue current training plan.
+STD_263,needs_attention,54,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_264,needs_attention,61,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_265,needs_attention,40,Low recent activity,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_266,needs_attention,45,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_267,on_track,12,,Student is performing well. Continue current training plan.
+STD_268,on_track,14,,Student is performing well. Continue current training plan.
+STD_269,on_track,13,,Student is performing well. Continue current training plan.
+STD_270,critical,80,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_271,on_track,35,,Student is performing well. Continue current training plan.
+STD_272,on_track,29,Low recent activity,Student is performing well. Continue current training plan.
+STD_273,critical,73,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_274,on_track,28,,Student is performing well. Continue current training plan.
+STD_275,on_track,18,,Student is performing well. Continue current training plan.
+STD_276,needs_attention,66,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_277,on_track,28,Low recent activity,Student is performing well. Continue current training plan.
+STD_278,on_track,17,,Student is performing well. Continue current training plan.
+STD_279,on_track,24,,Student is performing well. Continue current training plan.
+STD_280,needs_attention,64,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_281,on_track,37,Low recent activity,Student is performing well. Continue current training plan.
+STD_282,needs_attention,57,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_283,critical,80,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_284,needs_attention,56,"Low quiz performance, Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_285,on_track,12,,Student is performing well. Continue current training plan.
+STD_286,on_track,37,Low recent activity,Student is performing well. Continue current training plan.
+STD_287,needs_attention,44,"Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_288,needs_attention,51,"Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_289,needs_attention,58,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_290,on_track,33,Low quiz performance,Student is performing well. Continue current training plan.
+STD_291,on_track,16,,Student is performing well. Continue current training plan.
+STD_292,needs_attention,51,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_293,on_track,26,,Student is performing well. Continue current training plan.
+STD_294,on_track,22,,Student is performing well. Continue current training plan.
+STD_295,on_track,26,,Student is performing well. Continue current training plan.
+STD_296,on_track,11,,Student is performing well. Continue current training plan.
+STD_297,needs_attention,44,"Low attendance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_298,on_track,33,Low recent activity,Student is performing well. Continue current training plan.
+STD_299,on_track,39,Low attendance,Student is performing well. Continue current training plan.
+STD_300,needs_attention,48,Low recent activity,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_301,needs_attention,61,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_302,critical,73,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_303,on_track,30,,Student is performing well. Continue current training plan.
+STD_304,critical,71,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_305,needs_attention,52,"Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_306,needs_attention,42,"Low attendance, Low quiz performance",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_307,on_track,26,,Student is performing well. Continue current training plan.
+STD_308,on_track,12,,Student is performing well. Continue current training plan.
+STD_309,critical,71,"Low attendance, High missed sessions, Low recent activity",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_310,needs_attention,51,"Low quiz performance, Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_311,on_track,30,Low recent activity,Student is performing well. Continue current training plan.
+STD_312,on_track,11,,Student is performing well. Continue current training plan.
+STD_313,on_track,33,Low recent activity,Student is performing well. Continue current training plan.
+STD_314,on_track,39,Low recent activity,Student is performing well. Continue current training plan.
+STD_315,needs_attention,55,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_316,on_track,22,,Student is performing well. Continue current training plan.
+STD_317,on_track,34,Low attendance,Student is performing well. Continue current training plan.
+STD_318,needs_attention,64,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_319,needs_attention,57,Low recent activity,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_320,on_track,26,,Student is performing well. Continue current training plan.
+STD_321,on_track,10,,Student is performing well. Continue current training plan.
+STD_322,needs_attention,43,Low recent activity,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_323,on_track,14,,Student is performing well. Continue current training plan.
+STD_324,on_track,37,Low recent activity,Student is performing well. Continue current training plan.
+STD_325,on_track,15,,Student is performing well. Continue current training plan.
+STD_326,critical,75,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_327,needs_attention,51,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_328,on_track,12,,Student is performing well. Continue current training plan.
+STD_329,needs_attention,46,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_330,on_track,8,,Student is performing well. Continue current training plan.
+STD_331,on_track,27,,Student is performing well. Continue current training plan.
+STD_332,on_track,19,Low recent activity,Student is performing well. Continue current training plan.
+STD_333,needs_attention,55,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_334,on_track,6,,Student is performing well. Continue current training plan.
+STD_335,on_track,10,,Student is performing well. Continue current training plan.
+STD_336,needs_attention,63,"Low attendance, High missed sessions, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_337,on_track,31,Low technical skills,Student is performing well. Continue current training plan.
+STD_338,needs_attention,60,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_339,on_track,37,Low recent activity,Student is performing well. Continue current training plan.
+STD_340,needs_attention,50,"Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_341,critical,90,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_342,needs_attention,42,Low technical skills,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_343,needs_attention,47,"Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_344,on_track,19,,Student is performing well. Continue current training plan.
+STD_345,on_track,22,,Student is performing well. Continue current training plan.
+STD_346,on_track,3,,Student is performing well. Continue current training plan.
+STD_347,needs_attention,51,"Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_348,needs_attention,60,"Low quiz performance, Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_349,on_track,38,"Low quiz performance, Low technical skills",Student is performing well. Continue current training plan.
+STD_350,on_track,34,Low attendance,Student is performing well. Continue current training plan.
+STD_351,critical,95,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_352,on_track,28,,Student is performing well. Continue current training plan.
+STD_353,critical,83,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_354,on_track,30,,Student is performing well. Continue current training plan.
+STD_355,critical,71,"Low attendance, Low quiz performance, Low recent activity",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_356,needs_attention,69,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_357,needs_attention,41,"Low attendance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_358,on_track,33,,Student is performing well. Continue current training plan.
+STD_359,on_track,37,,Student is performing well. Continue current training plan.
+STD_360,on_track,8,,Student is performing well. Continue current training plan.
+STD_361,needs_attention,63,"Low attendance, High missed sessions, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_362,on_track,19,,Student is performing well. Continue current training plan.
+STD_363,on_track,6,,Student is performing well. Continue current training plan.
+STD_364,on_track,35,Low recent activity,Student is performing well. Continue current training plan.
+STD_365,needs_attention,50,"Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_366,needs_attention,51,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_367,on_track,30,,Student is performing well. Continue current training plan.
+STD_368,needs_attention,56,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_369,on_track,26,,Student is performing well. Continue current training plan.
+STD_370,on_track,29,Low technical skills,Student is performing well. Continue current training plan.
+STD_371,critical,87,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_372,on_track,31,Low quiz performance,Student is performing well. Continue current training plan.
+STD_373,on_track,20,,Student is performing well. Continue current training plan.
+STD_374,needs_attention,60,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_375,needs_attention,52,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_376,critical,75,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_377,critical,74,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_378,on_track,23,Low technical skills,Student is performing well. Continue current training plan.
+STD_379,on_track,36,Low recent activity,Student is performing well. Continue current training plan.
+STD_380,on_track,22,,Student is performing well. Continue current training plan.
+STD_381,on_track,6,,Student is performing well. Continue current training plan.
+STD_382,on_track,19,,Student is performing well. Continue current training plan.
+STD_383,needs_attention,43,"Low attendance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_384,needs_attention,52,Low recent activity,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_385,needs_attention,43,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_386,needs_attention,48,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_387,needs_attention,48,"Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_388,needs_attention,65,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_389,critical,84,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_390,needs_attention,64,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_391,on_track,30,,Student is performing well. Continue current training plan.
+STD_392,on_track,4,,Student is performing well. Continue current training plan.
+STD_393,needs_attention,53,"Low attendance, Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_394,on_track,33,Low recent activity,Student is performing well. Continue current training plan.
+STD_395,on_track,28,Low quiz performance,Student is performing well. Continue current training plan.
+STD_396,on_track,12,,Student is performing well. Continue current training plan.
+STD_397,on_track,10,,Student is performing well. Continue current training plan.
+STD_398,on_track,12,,Student is performing well. Continue current training plan.
+STD_399,critical,71,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_400,on_track,39,Low recent activity,Student is performing well. Continue current training plan.
+STD_401,on_track,20,,Student is performing well. Continue current training plan.
+STD_402,on_track,16,,Student is performing well. Continue current training plan.
+STD_403,on_track,13,,Student is performing well. Continue current training plan.
+STD_404,needs_attention,49,"Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_405,needs_attention,51,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_406,needs_attention,60,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_407,needs_attention,43,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_408,on_track,20,,Student is performing well. Continue current training plan.
+STD_409,needs_attention,55,"Low attendance, High missed sessions, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_410,critical,82,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_411,on_track,25,,Student is performing well. Continue current training plan.
+STD_412,on_track,23,Low technical skills,Student is performing well. Continue current training plan.
+STD_413,on_track,23,Low recent activity,Student is performing well. Continue current training plan.
+STD_414,on_track,20,,Student is performing well. Continue current training plan.
+STD_415,on_track,18,,Student is performing well. Continue current training plan.
+STD_416,on_track,6,,Student is performing well. Continue current training plan.
+STD_417,needs_attention,47,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_418,critical,72,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_419,needs_attention,60,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_420,needs_attention,54,"Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_421,on_track,14,,Student is performing well. Continue current training plan.
+STD_422,on_track,23,Low technical skills,Student is performing well. Continue current training plan.
+STD_423,on_track,25,,Student is performing well. Continue current training plan.
+STD_424,critical,74,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_425,on_track,34,"Low attendance, Low technical skills",Student is performing well. Continue current training plan.
+STD_426,critical,72,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_427,on_track,30,Low recent activity,Student is performing well. Continue current training plan.
+STD_428,on_track,6,,Student is performing well. Continue current training plan.
+STD_429,on_track,23,,Student is performing well. Continue current training plan.
+STD_430,needs_attention,48,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_431,on_track,11,,Student is performing well. Continue current training plan.
+STD_432,on_track,38,,Student is performing well. Continue current training plan.
+STD_433,needs_attention,61,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_434,needs_attention,60,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_435,needs_attention,52,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_436,needs_attention,46,"Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_437,needs_attention,57,"Low quiz performance, Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_438,needs_attention,67,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_439,on_track,31,Low technical skills,Student is performing well. Continue current training plan.
+STD_440,on_track,23,,Student is performing well. Continue current training plan.
+STD_441,needs_attention,62,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_442,on_track,28,,Student is performing well. Continue current training plan.
+STD_443,needs_attention,58,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_444,critical,84,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_445,on_track,7,,Student is performing well. Continue current training plan.
+STD_446,on_track,15,Low recent activity,Student is performing well. Continue current training plan.
+STD_447,on_track,34,Low attendance,Student is performing well. Continue current training plan.
+STD_448,on_track,27,,Student is performing well. Continue current training plan.
+STD_449,needs_attention,65,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_450,needs_attention,40,"Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_451,needs_attention,43,"Low attendance, High missed sessions, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_452,on_track,35,,Student is performing well. Continue current training plan.
+STD_453,on_track,32,Low quiz performance,Student is performing well. Continue current training plan.
+STD_454,needs_attention,62,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_455,needs_attention,44,"Low attendance, High missed sessions, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_456,critical,73,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_457,needs_attention,50,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_458,on_track,39,Low recent activity,Student is performing well. Continue current training plan.
+STD_459,needs_attention,44,"Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_460,on_track,26,,Student is performing well. Continue current training plan.
+STD_461,on_track,35,"Low recent activity, Low technical skills",Student is performing well. Continue current training plan.
+STD_462,needs_attention,56,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_463,needs_attention,66,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_464,on_track,30,"Low quiz performance, Low technical skills",Student is performing well. Continue current training plan.
+STD_465,critical,90,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_466,needs_attention,47,"Low quiz performance, Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_467,needs_attention,58,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_468,on_track,19,Low recent activity,Student is performing well. Continue current training plan.
+STD_469,needs_attention,52,"Low quiz performance, Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_470,needs_attention,46,Low recent activity,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_471,on_track,29,Low recent activity,Student is performing well. Continue current training plan.
+STD_472,needs_attention,66,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_473,needs_attention,51,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_474,needs_attention,64,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_475,needs_attention,67,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_476,needs_attention,53,"Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_477,on_track,20,,Student is performing well. Continue current training plan.
+STD_478,on_track,12,,Student is performing well. Continue current training plan.
+STD_479,critical,91,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_480,needs_attention,42,Low recent activity,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_481,critical,81,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_482,on_track,35,Low recent activity,Student is performing well. Continue current training plan.
+STD_483,on_track,18,Low technical skills,Student is performing well. Continue current training plan.
+STD_484,on_track,24,,Student is performing well. Continue current training plan.
+STD_485,on_track,18,,Student is performing well. Continue current training plan.
+STD_486,on_track,3,,Student is performing well. Continue current training plan.
+STD_487,on_track,18,,Student is performing well. Continue current training plan.
+STD_488,needs_attention,41,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_489,critical,74,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_490,needs_attention,45,"Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_491,on_track,39,"Low attendance, High missed sessions",Student is performing well. Continue current training plan.
+STD_492,critical,77,"Low attendance, Low quiz performance, Low recent activity",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_493,on_track,26,Low quiz performance,Student is performing well. Continue current training plan.
+STD_494,on_track,37,Low recent activity,Student is performing well. Continue current training plan.
+STD_495,on_track,10,,Student is performing well. Continue current training plan.
+STD_496,needs_attention,46,"Low attendance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_497,on_track,33,Low technical skills,Student is performing well. Continue current training plan.
+STD_498,critical,80,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_499,on_track,16,,Student is performing well. Continue current training plan.
+STD_500,needs_attention,50,"Low quiz performance, Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_501,critical,76,"Low attendance, Low quiz performance, Low recent activity",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_502,on_track,24,,Student is performing well. Continue current training plan.
+STD_503,on_track,29,Low recent activity,Student is performing well. Continue current training plan.
+STD_504,on_track,27,Low quiz performance,Student is performing well. Continue current training plan.
+STD_505,on_track,35,Low recent activity,Student is performing well. Continue current training plan.
+STD_506,needs_attention,57,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_507,needs_attention,51,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_508,on_track,31,Low recent activity,Student is performing well. Continue current training plan.
+STD_509,needs_attention,58,"Low attendance, Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_510,needs_attention,40,Low recent activity,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_511,critical,77,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_512,on_track,16,Low recent activity,Student is performing well. Continue current training plan.
+STD_513,needs_attention,54,"Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_514,on_track,23,,Student is performing well. Continue current training plan.
+STD_515,on_track,30,Low attendance,Student is performing well. Continue current training plan.
+STD_516,on_track,19,,Student is performing well. Continue current training plan.
+STD_517,on_track,32,Low recent activity,Student is performing well. Continue current training plan.
+STD_518,on_track,16,,Student is performing well. Continue current training plan.
+STD_519,on_track,39,"Low quiz performance, Low technical skills",Student is performing well. Continue current training plan.
+STD_520,needs_attention,45,"Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_521,on_track,12,,Student is performing well. Continue current training plan.
+STD_522,on_track,14,,Student is performing well. Continue current training plan.
+STD_523,needs_attention,48,"Low quiz performance, Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_524,on_track,21,Low recent activity,Student is performing well. Continue current training plan.
+STD_525,needs_attention,47,"Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_526,on_track,16,,Student is performing well. Continue current training plan.
+STD_527,on_track,10,,Student is performing well. Continue current training plan.
+STD_528,needs_attention,44,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_529,needs_attention,68,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_530,on_track,15,,Student is performing well. Continue current training plan.
+STD_531,on_track,32,Low attendance,Student is performing well. Continue current training plan.
+STD_532,needs_attention,42,"Low attendance, Low quiz performance",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_533,needs_attention,50,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_534,needs_attention,40,"Low attendance, Low quiz performance",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_535,on_track,21,,Student is performing well. Continue current training plan.
+STD_536,on_track,35,"Low quiz performance, Low recent activity",Student is performing well. Continue current training plan.
+STD_537,on_track,29,Low technical skills,Student is performing well. Continue current training plan.
+STD_538,on_track,18,,Student is performing well. Continue current training plan.
+STD_539,needs_attention,51,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_540,on_track,16,,Student is performing well. Continue current training plan.
+STD_541,on_track,18,,Student is performing well. Continue current training plan.
+STD_542,on_track,11,,Student is performing well. Continue current training plan.
+STD_543,on_track,28,Low quiz performance,Student is performing well. Continue current training plan.
+STD_544,on_track,34,Low attendance,Student is performing well. Continue current training plan.
+STD_545,on_track,35,Low recent activity,Student is performing well. Continue current training plan.
+STD_546,needs_attention,57,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_547,on_track,38,"Low quiz performance, Low technical skills",Student is performing well. Continue current training plan.
+STD_548,critical,75,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_549,critical,78,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_550,on_track,37,Low quiz performance,Student is performing well. Continue current training plan.
+STD_551,on_track,36,Low attendance,Student is performing well. Continue current training plan.
+STD_552,on_track,32,,Student is performing well. Continue current training plan.
+STD_553,needs_attention,52,"Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_554,on_track,26,,Student is performing well. Continue current training plan.
+STD_555,on_track,18,,Student is performing well. Continue current training plan.
+STD_556,needs_attention,58,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_557,on_track,34,Low quiz performance,Student is performing well. Continue current training plan.
+STD_558,on_track,14,,Student is performing well. Continue current training plan.
+STD_559,on_track,24,,Student is performing well. Continue current training plan.
+STD_560,needs_attention,56,"Low quiz performance, Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_561,on_track,29,,Student is performing well. Continue current training plan.
+STD_562,needs_attention,42,Low recent activity,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_563,needs_attention,40,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_564,needs_attention,68,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_565,needs_attention,58,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_566,on_track,22,Low quiz performance,Student is performing well. Continue current training plan.
+STD_567,needs_attention,55,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_568,on_track,34,,Student is performing well. Continue current training plan.
+STD_569,on_track,16,,Student is performing well. Continue current training plan.
+STD_570,needs_attention,50,"Low quiz performance, Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_571,on_track,25,,Student is performing well. Continue current training plan.
+STD_572,needs_attention,59,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_573,on_track,32,Low technical skills,Student is performing well. Continue current training plan.
+STD_574,needs_attention,41,Low recent activity,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_575,needs_attention,50,Low recent activity,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_576,critical,85,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_577,on_track,11,,Student is performing well. Continue current training plan.
+STD_578,critical,71,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_579,on_track,36,Low recent activity,Student is performing well. Continue current training plan.
+STD_580,needs_attention,40,"Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_581,on_track,16,,Student is performing well. Continue current training plan.
+STD_582,on_track,21,Low recent activity,Student is performing well. Continue current training plan.
+STD_583,needs_attention,57,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_584,needs_attention,57,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_585,on_track,24,,Student is performing well. Continue current training plan.
+STD_586,needs_attention,56,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_587,on_track,11,,Student is performing well. Continue current training plan.
+STD_588,on_track,16,,Student is performing well. Continue current training plan.
+STD_589,on_track,12,,Student is performing well. Continue current training plan.
+STD_590,needs_attention,62,"Low quiz performance, Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_591,on_track,14,,Student is performing well. Continue current training plan.
+STD_592,needs_attention,68,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_593,needs_attention,45,"Low quiz performance, Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_594,needs_attention,53,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_595,on_track,17,,Student is performing well. Continue current training plan.
+STD_596,critical,80,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_597,on_track,31,,Student is performing well. Continue current training plan.
+STD_598,on_track,13,,Student is performing well. Continue current training plan.
+STD_599,critical,71,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_600,needs_attention,42,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_601,on_track,21,,Student is performing well. Continue current training plan.
+STD_602,on_track,36,Low recent activity,Student is performing well. Continue current training plan.
+STD_603,needs_attention,62,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_604,needs_attention,55,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_605,on_track,28,Low recent activity,Student is performing well. Continue current training plan.
+STD_606,on_track,25,,Student is performing well. Continue current training plan.
+STD_607,needs_attention,44,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_608,on_track,25,,Student is performing well. Continue current training plan.
+STD_609,needs_attention,46,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_610,on_track,15,,Student is performing well. Continue current training plan.
+STD_611,needs_attention,44,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_612,needs_attention,45,Low recent activity,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_613,on_track,22,Low recent activity,Student is performing well. Continue current training plan.
+STD_614,on_track,33,,Student is performing well. Continue current training plan.
+STD_615,on_track,16,,Student is performing well. Continue current training plan.
+STD_616,needs_attention,45,Low technical skills,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_617,on_track,0,,Student is performing well. Continue current training plan.
+STD_618,on_track,19,Low technical skills,Student is performing well. Continue current training plan.
+STD_619,critical,89,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_620,on_track,22,,Student is performing well. Continue current training plan.
+STD_621,on_track,37,Low attendance,Student is performing well. Continue current training plan.
+STD_622,needs_attention,49,"Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_623,on_track,38,Low recent activity,Student is performing well. Continue current training plan.
+STD_624,needs_attention,54,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_625,on_track,14,,Student is performing well. Continue current training plan.
+STD_626,needs_attention,44,"Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_627,on_track,27,,Student is performing well. Continue current training plan.
+STD_628,on_track,38,"Low attendance, Low quiz performance",Student is performing well. Continue current training plan.
+STD_629,on_track,27,,Student is performing well. Continue current training plan.
+STD_630,on_track,29,,Student is performing well. Continue current training plan.
+STD_631,on_track,32,,Student is performing well. Continue current training plan.
+STD_632,critical,93,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_633,needs_attention,47,"Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_634,needs_attention,66,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_635,on_track,39,"Low quiz performance, Low technical skills",Student is performing well. Continue current training plan.
+STD_636,critical,94,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_637,needs_attention,63,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_638,on_track,7,,Student is performing well. Continue current training plan.
+STD_639,needs_attention,63,"Low quiz performance, Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_640,needs_attention,40,"Low attendance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_641,on_track,36,Low recent activity,Student is performing well. Continue current training plan.
+STD_642,on_track,37,"Low attendance, Low quiz performance",Student is performing well. Continue current training plan.
+STD_643,on_track,4,,Student is performing well. Continue current training plan.
+STD_644,needs_attention,50,"Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_645,on_track,27,,Student is performing well. Continue current training plan.
+STD_646,on_track,22,,Student is performing well. Continue current training plan.
+STD_647,on_track,7,,Student is performing well. Continue current training plan.
+STD_648,needs_attention,54,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_649,needs_attention,54,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_650,on_track,4,,Student is performing well. Continue current training plan.
+STD_651,on_track,28,Low recent activity,Student is performing well. Continue current training plan.
+STD_652,on_track,31,Low recent activity,Student is performing well. Continue current training plan.
+STD_653,needs_attention,67,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_654,on_track,7,,Student is performing well. Continue current training plan.
+STD_655,needs_attention,47,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_656,needs_attention,44,Low recent activity,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_657,needs_attention,41,Low recent activity,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_658,needs_attention,54,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_659,critical,76,"Low attendance, Low quiz performance, Low recent activity",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_660,needs_attention,69,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_661,on_track,26,,Student is performing well. Continue current training plan.
+STD_662,critical,75,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_663,needs_attention,62,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_664,needs_attention,51,"Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_665,critical,91,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_666,on_track,34,Low recent activity,Student is performing well. Continue current training plan.
+STD_667,critical,74,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_668,on_track,30,,Student is performing well. Continue current training plan.
+STD_669,on_track,35,Low technical skills,Student is performing well. Continue current training plan.
+STD_670,on_track,30,Low technical skills,Student is performing well. Continue current training plan.
+STD_671,on_track,17,,Student is performing well. Continue current training plan.
+STD_672,on_track,20,,Student is performing well. Continue current training plan.
+STD_673,needs_attention,46,"Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_674,on_track,21,,Student is performing well. Continue current training plan.
+STD_675,needs_attention,53,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_676,on_track,34,,Student is performing well. Continue current training plan.
+STD_677,on_track,10,,Student is performing well. Continue current training plan.
+STD_678,on_track,33,,Student is performing well. Continue current training plan.
+STD_679,on_track,23,,Student is performing well. Continue current training plan.
+STD_680,on_track,23,,Student is performing well. Continue current training plan.
+STD_681,needs_attention,58,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_682,critical,76,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_683,on_track,38,Low recent activity,Student is performing well. Continue current training plan.
+STD_684,on_track,32,Low recent activity,Student is performing well. Continue current training plan.
+STD_685,critical,81,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_686,on_track,25,,Student is performing well. Continue current training plan.
+STD_687,on_track,31,Low recent activity,Student is performing well. Continue current training plan.
+STD_688,critical,83,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_689,needs_attention,48,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_690,on_track,34,"Low attendance, Low quiz performance",Student is performing well. Continue current training plan.
+STD_691,needs_attention,44,"Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_692,needs_attention,65,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_693,needs_attention,61,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_694,on_track,5,,Student is performing well. Continue current training plan.
+STD_695,on_track,32,,Student is performing well. Continue current training plan.
+STD_696,needs_attention,53,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_697,on_track,24,,Student is performing well. Continue current training plan.
+STD_698,on_track,24,Low technical skills,Student is performing well. Continue current training plan.
+STD_699,on_track,22,,Student is performing well. Continue current training plan.
+STD_700,needs_attention,46,"Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_701,needs_attention,61,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_702,on_track,39,"Low attendance, Low technical skills",Student is performing well. Continue current training plan.
+STD_703,needs_attention,41,"Low attendance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_704,on_track,33,Low recent activity,Student is performing well. Continue current training plan.
+STD_705,needs_attention,61,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_706,needs_attention,42,"Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_707,on_track,5,,Student is performing well. Continue current training plan.
+STD_708,needs_attention,43,Low recent activity,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_709,needs_attention,53,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_710,critical,76,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_711,on_track,14,,Student is performing well. Continue current training plan.
+STD_712,needs_attention,67,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_713,on_track,14,,Student is performing well. Continue current training plan.
+STD_714,needs_attention,43,"Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_715,needs_attention,42,Low technical skills,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_716,needs_attention,52,"Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_717,needs_attention,64,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_718,on_track,20,,Student is performing well. Continue current training plan.
+STD_719,on_track,30,,Student is performing well. Continue current training plan.
+STD_720,needs_attention,69,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_721,on_track,36,Low recent activity,Student is performing well. Continue current training plan.
+STD_722,on_track,38,Low recent activity,Student is performing well. Continue current training plan.
+STD_723,on_track,28,,Student is performing well. Continue current training plan.
+STD_724,on_track,22,,Student is performing well. Continue current training plan.
+STD_725,critical,71,"Low attendance, Low quiz performance, Low recent activity",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_726,needs_attention,49,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_727,on_track,38,Low recent activity,Student is performing well. Continue current training plan.
+STD_728,on_track,21,,Student is performing well. Continue current training plan.
+STD_729,needs_attention,56,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_730,on_track,13,,Student is performing well. Continue current training plan.
+STD_731,needs_attention,66,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_732,needs_attention,65,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_733,on_track,28,,Student is performing well. Continue current training plan.
+STD_734,needs_attention,46,Low recent activity,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_735,needs_attention,57,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_736,on_track,28,Low recent activity,Student is performing well. Continue current training plan.
+STD_737,on_track,32,Low technical skills,Student is performing well. Continue current training plan.
+STD_738,on_track,31,,Student is performing well. Continue current training plan.
+STD_739,on_track,33,Low technical skills,Student is performing well. Continue current training plan.
+STD_740,needs_attention,62,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_741,needs_attention,65,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_742,needs_attention,63,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_743,needs_attention,50,"Low quiz performance, Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_744,on_track,31,Low recent activity,Student is performing well. Continue current training plan.
+STD_745,needs_attention,41,Low recent activity,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_746,on_track,26,,Student is performing well. Continue current training plan.
+STD_747,needs_attention,54,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_748,needs_attention,46,"Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_749,on_track,14,,Student is performing well. Continue current training plan.
+STD_750,needs_attention,47,Low recent activity,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_751,needs_attention,58,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_752,needs_attention,62,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_753,on_track,25,Low recent activity,Student is performing well. Continue current training plan.
+STD_754,on_track,12,,Student is performing well. Continue current training plan.
+STD_755,on_track,23,,Student is performing well. Continue current training plan.
+STD_756,needs_attention,46,"Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_757,critical,73,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_758,needs_attention,51,"Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_759,on_track,12,,Student is performing well. Continue current training plan.
+STD_760,needs_attention,40,Low technical skills,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_761,on_track,27,,Student is performing well. Continue current training plan.
+STD_762,on_track,28,Low technical skills,Student is performing well. Continue current training plan.
+STD_763,needs_attention,41,"Low attendance, Low quiz performance",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_764,needs_attention,56,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_765,needs_attention,47,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_766,on_track,27,,Student is performing well. Continue current training plan.
+STD_767,on_track,36,Low recent activity,Student is performing well. Continue current training plan.
+STD_768,needs_attention,42,Low technical skills,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_769,needs_attention,61,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_770,needs_attention,57,"Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_771,on_track,39,"Low attendance, Low quiz performance, High missed sessions",Student is performing well. Continue current training plan.
+STD_772,needs_attention,52,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_773,on_track,36,Low recent activity,Student is performing well. Continue current training plan.
+STD_774,needs_attention,60,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_775,needs_attention,55,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_776,needs_attention,53,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_777,critical,83,"Low attendance, Low quiz performance, High missed sessions",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_778,needs_attention,45,"Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_779,on_track,26,Low quiz performance,Student is performing well. Continue current training plan.
+STD_780,on_track,29,,Student is performing well. Continue current training plan.
+STD_781,on_track,25,,Student is performing well. Continue current training plan.
+STD_782,on_track,13,,Student is performing well. Continue current training plan.
+STD_783,needs_attention,58,"Low attendance, Low recent activity, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_784,on_track,35,Low technical skills,Student is performing well. Continue current training plan.
+STD_785,needs_attention,67,"Low attendance, Low quiz performance, Low recent activity",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_786,on_track,28,Low recent activity,Student is performing well. Continue current training plan.
+STD_787,needs_attention,67,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_788,critical,70,"Low attendance, Low recent activity, Low technical skills",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_789,needs_attention,43,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_790,needs_attention,62,"Low attendance, Low quiz performance, Low technical skills",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_791,needs_attention,43,Low recent activity,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_792,needs_attention,46,Low recent activity,Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_793,on_track,31,,Student is performing well. Continue current training plan.
+STD_794,needs_attention,60,"Low attendance, Low quiz performance, High missed sessions",Monitor closely and provide additional practice materials. Encourage regular participation.
+STD_795,on_track,25,Low recent activity,Student is performing well. Continue current training plan.
+STD_796,on_track,20,,Student is performing well. Continue current training plan.
+STD_797,on_track,10,,Student is performing well. Continue current training plan.
+STD_798,critical,70,"Low attendance, Low quiz performance, Low recent activity",Immediate instructor intervention required. Schedule review session and assign targeted training.
+STD_799,on_track,22,,Student is performing well. Continue current training plan.
